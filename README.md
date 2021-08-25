@@ -11,6 +11,7 @@ My dotfiles hub
       - `maxdevjs/dotfiles-void` will be revamped, most likely
         - interesting points: used [bspwm](https://github.com/baskerville/bspwm), [sxhkd](https://github.com/baskerville/sxhkd)
           - unfortunately, seems that these two amazing pieces of software are lagging behind in recent times
+            - anyway... [maxdevjs/dotfiles-bspwm-config](https://github.com/maxdevjs/dotfiles-bspwm-config) [maxdevjs/dotfiles-sxhkd-config](https://github.com/maxdevjs/dotfiles-sxhkd-config)
 - `maxdevjs/dotfiles-solus`
   - old, currently unavailable
     - I A-B-S-O-L-U-T-E-L-Y 💕 [Solus](https://getsol.us/home/)
