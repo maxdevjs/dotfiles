@@ -1,5 +1,8 @@
 # dotfiles
-My dotfiles hub
+
+My dotfiles hub.
+
+Actual `dotiles` are not hosted in this repo: repos for specific distros are linked below. 
 
 ## dotfiles à la carte
 
