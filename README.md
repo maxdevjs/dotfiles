@@ -22,6 +22,8 @@ Actual `dotiles` are not hosted in this repo: repos for specific distros are lin
  
 </details>
 
+- [maxdevjs/dotfiles-clearlinux-config](https://github.com/maxdevjs/dotfiles-clearlinux-config)
+  - WIP: testing the distro and adapting my configuration files
 - [maxdevjs/dotfiles-solus](https://github.com/maxdevjs/dotfiles-solus)
   - ~~old, currently unavailable~~ currently in use after [NixOS](https://nixos.org/) update went 😡
     - I A-B-S-O-L-U-T-E-L-Y 💕 [Solus](https://getsol.us/home/)
